@@ -1,0 +1,16 @@
+# VBA Homework: The VBA of Wall Street - September 25, 2021
+
+### Background
+
+** I used VBA scripting to analyze stock market data. 
+
+### How I proceeded:
+
+* I created a script that loopd through stocks in 2014, 2015, and 2016 with the following output listed:
+
+  ** Ticker symbol
+  ** Yearly change from when stock opened at beginning of year to when stock closed at the end of the year.
+  ** Percent Change from opening price at beginning of year to the closing price at the end of the year.
+  ** Total stock volume of the stock
+  
+* As well, I used conditional formatting to highlight positive change in green and negative change with red.
